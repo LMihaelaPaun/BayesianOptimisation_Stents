@@ -1,1 +1,1 @@
-This folder contains constrained Bayesian Optimisation code for the paper on "Constrained Bayesian optimisation with a cardiovascular application" by L. Mihaela Paun, Andre Sean McGinty and Dirk Husmeier.
+This folder contains code for constrained Bayesian Optimisation for the paper entitled "Constrained Bayesian optimisation with a cardiovascular application" by LM Paun, AF Schmidt, S McGinty, D Husmeier
